@@ -4,7 +4,7 @@
   "description": "This is a dummy merchant site",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node -r dotenv/index.js"
   },
   "author": "vipul",
   "license": "ISC",
